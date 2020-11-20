@@ -11,4 +11,6 @@
 ### 👀 Interest
 
 - React
+- FE
 - Clean Code 
+- BE
