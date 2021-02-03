@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=moaikang&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF9D8D&height=300&section=header&text=moaikang&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
 
 <h3 align="center">👋 Hi, There!</h3>
 <p align="center">
@@ -11,4 +11,4 @@ I love learning new things and sharing knowledge.
   <a target="_blank" href="mailto:moaikang.dev@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=90&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=FF9D8D&height=300&section=footer&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
