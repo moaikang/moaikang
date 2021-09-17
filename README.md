@@ -1,7 +1,5 @@
-<h3 align="center">👋 Hi, There!</h3>
 <p align="center">
-I'm moaikang, a junior front-end developer. 🌱 <br>
-I love learning new things and sharing knowledge.
+Junior front-end engineeeeeeeer 🌱 <br>
 </p>
 
 <h3 align="center">Contact</h3>
