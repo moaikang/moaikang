@@ -1,5 +1,5 @@
 <p align="center">
-Junior front-end engineeeeeeeer 🌱 <br>
+FE Engineeeeeeeeer <br>
 </p>
 
 <h3 align="center">Contact</h3>
